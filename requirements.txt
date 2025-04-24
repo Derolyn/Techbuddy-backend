@@ -1,5 +1,4 @@
-flask
-flask-cors
-openai
-gunicorn
-gunicorn
+fastapi
+uvicorn
+openai==0.28
+python-dotenv
